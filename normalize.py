@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import fourpoint as f
 
-image = cv2.imread("form.jpg")
+image = cv2.imread("rotate2.jpg")
 
 normal_image = cv2.imread("normal.png")
 cv2.imshow("original",image)
@@ -41,6 +41,7 @@ cv2.imshow("Edges",edged)
 cv2.imshow("Scratch",scratch)
 
 
+cv2.imwrite( "output.jpg", warped );
 
 cv2.waitKey(0)
 cv2.destroyAllWindows()
