@@ -1,0 +1,30 @@
+1 C
+2 Shade Error (more than 1 shade)
+3 C
+4 D
+5 C
+6 C
+7 A
+8 D
+9 C
+10 C
+11 B
+12 B
+13 C
+14 C
+15 C
+16 A
+17 B
+18 C
+19 D
+20 C
+21 B
+22 A
+23 B
+24 C
+25 C
+26 Shade Error (no shade)
+27 Shade Error (no shade)
+28 Shade Error (no shade)
+29 C
+30 Shade Error (no shade)
