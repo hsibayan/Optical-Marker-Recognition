@@ -40,4 +40,5 @@ def normalize(filename):
 	# cv2.imshow("Edges",edged)
 	# cv2.imshow("Scratch",scratch)
 
+
 	cv2.imwrite('_Normalized Photos/' + filename + '.jpg', warped);
