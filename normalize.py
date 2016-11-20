@@ -41,7 +41,4 @@ cv2.imshow("Edges",edged)
 cv2.imshow("Scratch",scratch)
 
 
-cv2.imwrite( "output.jpg", warped );
-
-cv2.waitKey(0)
-cv2.destroyAllWindows()
+return warped

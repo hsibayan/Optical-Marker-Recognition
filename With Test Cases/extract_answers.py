@@ -69,9 +69,9 @@ def getAnswers(im, i):
 
 
 # start ---------------------------------------------------------------
-def extract(filename):
-
-	img = cv2.imread('_Normalized Photos/' + filename + '.jpg')
+def extract(final_output,filename):
+	
+	img = final_output
 	img = cv2.medianBlur(img,5)
 
 	gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)

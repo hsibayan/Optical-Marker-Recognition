@@ -4,7 +4,7 @@
 4 Shade Error (no shade)
 5 Shade Error (no shade)
 6 B
-7 Shade Error (more than 1 shade)
+7 Shade Error (no shade)
 8 Shade Error (no shade)
 9 Shade Error (no shade)
 10 Shade Error (no shade)

@@ -23,6 +23,25 @@ def order_points(pts):
 	rect[1] = pts[np.argmin(diff)]
 	rect[3] = pts[np.argmax(diff)]
  
+	# print ("this is rect")
+	# print (rect)
+	# print ("this is one point")
+	# print (rect[0])
+	# print (rect[0][0])
+
+	width =  rect[1][0] - rect[0][0]
+	height = rect[3][1] - rect[0][1]
+	print (width)
+	print (height)
+
+	if(width > height):
+		rect2 = np.zeros((4, 2), dtype = "float32")
+		rect2[0] = rect[3] 
+		rect2[1] = rect[0]
+		rect2[2] = rect[1]
+		rect2[3] = rect[2]
+		return rect2 
+
 	# return the ordered coordinates
 	return rect
 

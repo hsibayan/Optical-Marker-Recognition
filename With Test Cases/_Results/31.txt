@@ -8,10 +8,10 @@
 8 Shade Error (no shade)
 9 Shade Error (no shade)
 10 Shade Error (no shade)
-11 Shade Error (no shade)
+11 B
 12 C
 13 A
-14 Shade Error (no shade)
+14 C
 15 D
 16 Shade Error (no shade)
 17 Shade Error (no shade)

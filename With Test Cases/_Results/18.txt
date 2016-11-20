@@ -26,5 +26,5 @@
 26 A
 27 B
 28 C
-29 A
-30 A
+29 Shade Error (more than 1 shade)
+30 Shade Error (more than 1 shade)
